@@ -1,10 +1,10 @@
 
 https://oshwlab.com/ahesan_zafir/clock
 
-https://eater.net/datasheets/74ls32.pdf
+OUTPUT's
 
-https://eater.net/datasheets/74ls08.pdf
+Astable Waveform
+https://tinyurl.com/2cj7x3gb
 
-https://eater.net/datasheets/74ls04.pdf
-
-https://eater.net/datasheets/lm555.pdf
+Monostable Waveform
+https://tinyurl.com/ydn9s58c
