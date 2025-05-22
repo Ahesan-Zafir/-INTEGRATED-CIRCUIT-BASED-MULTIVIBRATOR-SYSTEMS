@@ -21,3 +21,5 @@ https://tinyurl.com/2cj7x3gb
 
 Monostable Waveform
 https://tinyurl.com/ydn9s58c
+
+    Refer Project Report to get systematic steps and Procedure followed.
